@@ -1,54 +1,59 @@
-RegionName,2018 Avg Price
-Los Angeles County,596094.5277777779
-San Diego County,560627.3055555556
-Orange County,683327.6111111112
-Riverside County,356364.38888888893
-San Bernardino County,327473.66666666674
-Santa Clara County,1241342.0
-Alameda County,834717.4166666666
-Sacramento County,339320.94444444444
-Contra Costa County,652796.9444444444
-Fresno County,238799.27777777798
-Kern County,201768.9444444445
-Ventura County,561427.0555555555
-San Francisco County,1620575.7499999981
-San Mateo County,1371656.0833333333
-San Joaquin County,337382.1666666667
-Stanislaus County,292838.19444444426
-Sonoma County,647595.4722222221
-Tulare County,209681.1944444445
-Santa Barbara County,549925.8333333334
-Monterey County,555617.1388888888
-Solano County,408260.05555555556
-Placer County,447523.0555555555
-San Luis Obispo County,598684.8055555555
-Santa Cruz County,938373.8888888886
-Merced County,246967.6666666666
-Marin County,1078958.5277777782
-Yolo County,406554.77777777775
-El Dorado County,444697.2777777778
-Shasta County,253039.0000000001
-Imperial County,212911.3333333334
-Kings County,210107.5555555555
-Madera County,252386.88888888885
-Napa County,636226.0555555556
-Humboldt County,323063.41666666657
-Nevada County,460597.91666666674
-Sutter County,281832.5277777778
-Mendocino County,371446.74999999994
-Yuba County,248161.2500000001
-Lake County,273116.5833333333
-Tehama County,237068.77777777775
-Tuolumne County,290349.80555555556
-San Benito County,536261.3333333334
-Calaveras County,327484.0555555555
-Siskiyou County,208822.58333333334
-Amador County,318327.6388888888
-Lassen County,187454.30555555542
-Del Norte County,231588.6666666666
-Glenn County,215229.27777777784
-Colusa County,213721.02777777775
-Plumas County,268694.2222222222
-Inyo County,325430.9166666667
-Mariposa County,290702.6111111112
-Trinity County,256738.58333333334
+RegionName,Price
+Alameda County,76644
+Alpine County,73307
+Amador County,44793
+Butte County,44346
+Calaveras County,49893
+Colusa County,49094
+Contra Costa County,82506
+Del Norte County,37268
+El Dorado County,67464
+Fresno County,43084
+Glenn County,48613
+Humboldt County,48739
+Imperial County,36974
+Inyo County,61358
+Kern County,39703
+Kings County,35306
+Lake County,43185
+Lassen County,37844
+Los Angeles County,62224
+Madera County,39897
+Marin County,134275
+Mariposa County,53143
+Mendocino County,50150
+Merced County,38519
+Modoc County,44822
+Mono County,51325
+Monterey County,56193
+Napa County,74984
+Nevada County,61799
+Orange County,69268
+Placer County,66700
+Plumas County,53599
+Riverside County,40637
+Sacramento County,52544
+San Benito County,53822
+San Bernardino County,40316
+San Diego County,61386
+San Francisco County,130696
+San Joaquin County,44995
+San Luis Obispo County,58491
+San Mateo County,126392
+Santa Barbara County,62690
+Santa Clara County,107877
+Santa Cruz County,69355
+Shasta County,46582
+Sierra County,46615
+Siskiyou County,45065
+Solano County,51664
+Sonoma County,64501
+Stanislaus County,44120
+Sutter County,44535
+Tehama County,42483
+Trinity County,40640
+Tulare County,40420
+Tuolumne County,47838
+Ventura County,61712
+Yolo County,54118
+Yuba County,40929
